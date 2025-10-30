@@ -1,5 +1,3 @@
-![EasyVisa Banner](https://i.imgur.com/YrAIXj8.png)
-
 # 🧠 EasyVisa: Automated Visa Approval Prediction Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white)
@@ -101,12 +99,11 @@ This project followed a full **data science lifecycle** — from data acquisitio
 
 ## 🗂️ Repository Structure
 EasyVisa-ML-Project/
-│
-├── Adam_Cunningham_EasyVisa_Full_Code_Notebook.ipynb
-├── data/ (sample dataset used for experimentation)
-├── models/ (serialized trained models)
-├── visuals/ (EDA plots and feature importance charts)
-└── README.md
+* Adam_Cunningham_EasyVisa_Full_Code_Notebook.ipynb
+* data/ (sample dataset used for experimentation)
+* models/ (serialized trained models)
+* visuals/ (EDA plots and feature importance charts)
+* README.md
 
 ---
 
