@@ -99,9 +99,9 @@ This project followed a full **data science lifecycle** — from data acquisitio
 
 ## 🗂️ Repository Structure
 EasyVisa-ML-Project/
+* Adam_Cunningham_EasyVisa_Full_Code_Notebook.html
 * Adam_Cunningham_EasyVisa_Full_Code_Notebook.ipynb
 * data/ (sample dataset used for experimentation)
-* Adam_Cunningham_EasyVisa_Full_Code_Notebook.html
 * README.md
 
 ---
