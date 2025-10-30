@@ -101,7 +101,6 @@ This project followed a full **data science lifecycle** — from data acquisitio
 EasyVisa-ML-Project/
 * Adam_Cunningham_EasyVisa_Full_Code_Notebook.ipynb
 * data/ (sample dataset used for experimentation)
-* models/ (serialized trained models)
 * visuals/ (EDA plots and feature importance charts)
 * README.md
 
